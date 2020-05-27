@@ -1,24 +1,14 @@
-# timer
+# Timer
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* [Vue.js](https://vuejs.org/)
+* [Vuetify](https://vuetifyjs.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Referência
 
-### Lints and fixes files
-```
-npm run lint
-```
+* [How to code a Timer using Vue - State, Vuetify, Themes, conditionals - Day 34 - #100DaysOfCode - Tyler Potts](https://www.youtube.com/watch?v=bvZyC9HfAOI)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot
+
+![alt text](screenshot.png)
